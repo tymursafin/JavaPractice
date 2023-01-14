@@ -7,7 +7,7 @@ rotateLeft3([5, 11, 9]) → [11, 9, 5]
 rotateLeft3([7, 0, 0]) → [0, 0, 7]
  */
 
-public class arrayRotateLeft {
+public class ArrayRotateLeft {
     public static void main(String[] args) {
         int[] nums = {1, 2, 3};
         int[] result = new int[3];

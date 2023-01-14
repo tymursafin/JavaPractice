@@ -6,7 +6,7 @@ reverse3([1, 2, 3]) → [3, 2, 1]
 reverse3([5, 11, 9]) → [9, 11, 5]
 reverse3([7, 0, 0]) → [0, 0, 7]
  */
-public class arrayReverseOrder {
+public class ArrayReverseOrder {
     public static void main(String[] args) {
         int[] nums = {1,2,3,4,5,6,7};
         int[] result = new int[7];
